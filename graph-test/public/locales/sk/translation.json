@@ -1,0 +1,16 @@
+{
+  "name": "Meno",
+  "status": "Status",
+  "species": "Druh",
+  "type": "Typ",
+  "gender": "Pohlavie",
+  "origin": "Pôvod",
+  "location": "Lokácia",
+  "detail": "Detail",
+  "characterName": "Meno postavy",
+  "title": "Rick & Morty postavy",
+  "characterGender": "Pohlavie postavy",
+  "characterSpecies": "Druh postavy",
+  "characterOrigin": "Pôvod postavy",
+  "characterLocation": "Lokácia postavy"
+}

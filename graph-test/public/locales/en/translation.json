@@ -1,0 +1,16 @@
+{
+  "name": "Name",
+  "status": "Status",
+  "species": "Species",
+  "type": "Type",
+  "gender": "Gender",
+  "origin": "Origin",
+  "location": "Location",
+  "detail": "Detail",
+  "characterName": "Character name",
+  "title": "Rick & Morty characters",
+  "characterGender": "Character gender",
+  "characterSpecies": "Character species",
+  "characterOrigin": "Character origin",
+  "characterLocation": "Character location"
+}
